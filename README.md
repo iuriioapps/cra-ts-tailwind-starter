@@ -1,5 +1,2 @@
-# cra-ts-starter
-Basic CRA with TypeScript
-
-## GH deployment configuration
-[spa-github-pages](https://github.com/rafgraph/spa-github-pages)
+# CRA + TypeScript + Tailwind starter
+Basic CRA with TypeScript and Tailwind template for quick prototyping

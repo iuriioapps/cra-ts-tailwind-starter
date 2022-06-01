@@ -4,7 +4,7 @@ type Props = {
 
 const Hello = ({ message }: Props) => {
     return (
-        <div>Hello, {message}</div>
+        <div className="my-auto text-fuchsia-900 text-lg">Hello, {message}</div>
     );
 };
 
