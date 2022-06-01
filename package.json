@@ -2,7 +2,7 @@
     "name": "cra-ts-starter",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://iuriioapps.github.com/cra-ts-starter",
+    "homepage": "https://iuriioapps.github.io/cra-ts-tailwind-starter/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.3.0",
